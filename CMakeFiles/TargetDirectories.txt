@@ -1,0 +1,5 @@
+/home/tei/Downloads/newAdtTest/cmake-build-debug/CMakeFiles/answers1.cpp.dir
+/home/tei/Downloads/newAdtTest/cmake-build-debug/CMakeFiles/answers2.cpp.dir
+/home/tei/Downloads/newAdtTest/cmake-build-debug/CMakeFiles/geometry.dir
+/home/tei/Downloads/newAdtTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tei/Downloads/newAdtTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
